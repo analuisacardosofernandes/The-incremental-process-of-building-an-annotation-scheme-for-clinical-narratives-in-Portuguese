@@ -3,6 +3,7 @@ Enhancing an Annotation Scheme for Clinical Narratives in European Portuguese th
 This repository contains the supplementary materials for the article "Enhancing an Annotation Scheme for Clinical Narratives in European Portuguese through Human Variation Analysis." It includes annotation resources, synthetic clinical reports, and documentation related to the Text2Story-based medical domain annotation scheme.
 
 🗂️ Repository Contents
+
 decision_tree/
 Visual representation of the decision tree created to assist annotators in selecting semantic tags for clinical events.
 
