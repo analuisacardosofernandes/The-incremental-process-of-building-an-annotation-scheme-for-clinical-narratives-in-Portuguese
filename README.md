@@ -20,6 +20,7 @@ original_text2story_guidelines/
 The original Text2Story Annotation Guidelines, not specific to the medical domain, used as the foundation for this project.
 
 📄 About the Project
+
 This project explores how human variation in annotation can inform the refinement of semantic annotation schemes. It focuses on clinical narratives written in European Portuguese and proposes a domain-specific extension of the Text2Story annotation scheme tailored to medical contexts.
 
 The process involved:
