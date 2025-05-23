@@ -1,6 +1,4 @@
-# Developing-an-Annotation-Scheme-for-Clinical-Narratives-in-Portuguese
-
-Developing an Annotation Scheme for Clinical Narratives in Portuguese through Human Variation Analysis
+# The incremental process of building an annotation scheme for clinical narratives in Portuguese: the contribution of human variation analysis
 
 This repository contains the supplementary materials for the article "Developing an Annotation Scheme for Clinical Narratives in Portuguese through Human Variation Analysis". It includes annotation resources, synthetic clinical reports, and documentation related to the Text2Story-based medical domain annotation scheme.
 
